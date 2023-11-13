@@ -1,1 +1,2 @@
 # Twitter-Data-Analysis
+Utilized Python and Tweepy to collect tweets related to dengue from the Twitter API. The collected data was structured into a Pandas DataFrame for further analysis. Leveraged data visualization techniques, including the creation of a word cloud using the WordCloud library, to gain insights into the most frequent words in the dataset. Conducted text preprocessing to enhance the accuracy of the analysis.
